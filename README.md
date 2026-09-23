@@ -1,0 +1,2 @@
+# Package Name : MIUN_Mft_Daf_Example_01_GitHubProject
+This is a webMethods package and requires a webMethods Integration Server to host it. Package versioning and configuration can be found in the package [manifest](./MIUN_Mft_Daf_Example_01_GitHubProject/manifest.v3) file. Service and API documentation is available on the package's home page http://&lt;server&gt;:&lt;port&gt;/&lt;packagename>.

@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: MIUN_Mft_Daf_Example_01_GitHubProject
+  gitServerName: MIUN_ALIAS1_MFT_Example
+  gitUrl: https://github.com/miunibmalias1
+  gitUsername: miunibmalias1
+  gitBranch: main
