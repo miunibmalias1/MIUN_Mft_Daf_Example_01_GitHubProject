@@ -7,3 +7,12 @@ packages:
   gitUrl: https://github.com/miunibmalias1
   gitUsername: miunibmalias1
   gitBranch: main
+services:
+- serviceName: project.miun_mft_daf_example_01_github.integrations:testDebugLog
+  packages:
+  - name: MIUN_Mft_Daf_Example_01_GitHubProject
+    version: "1.0"
+- serviceName: pub.flow:debugLog
+  packages:
+  - name: WmPublic
+    version: 12.1.0.0.1032
