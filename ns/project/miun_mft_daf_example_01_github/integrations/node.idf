@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_subtype">unknown</value>
+  <value name="node_nsName">project.miun_mft_daf_example_01_github.integrations</value>
+  <value name="node_pkg">MIUN_Mft_Daf_Example_01_GitHubProject</value>
+  <value name="is_public">false</value>
+</Values>
